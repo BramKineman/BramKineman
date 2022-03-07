@@ -1,5 +1,5 @@
 **👋 Hi, I’m @BramKineman**
-- Learn about me at [bramkineman.com](bramkineman.com)
+- Learn about me at [bramkineman.com](https://www.bramkineman.com/)
 
 <!---
 BramKineman/BramKineman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
